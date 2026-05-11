@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jonasnav.github.io/docs-t3abc3/sitemap.xml
